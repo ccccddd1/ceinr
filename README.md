@@ -1,2 +1,2 @@
 # CEINR
-The code for paper CEINR: Self-supervised Compressive Spectral Imaging using Coupled Explicit and Implicit Neural Representation
+The code for paper : Progressive Self-supervised Learning for CASSI Computational Spectral Cameras
